@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH22Hwang&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH22Hwang&layout=Demo&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghkd3531)](https://solved.ac/ghkd3531)
+
+
+
