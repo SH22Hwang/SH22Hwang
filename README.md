@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-반갑습니다. 황승현입니다. 인공지능에 관심 많은 청년입니다.
+> 반갑습니다. 황승현입니다. 인공지능에 관심 많은 청년입니다.
 <!--
 **SH22Hwang/SH22Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 뱃지 : https://simpleicons.org/
 -->
 <div align=center>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH22Hwang&show_icons=true&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH22Hwang&layout=compact&theme=tokyonight)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghkd3531)](https://solved.ac/ghkd3531)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkd3531)](https://solved.ac/ghkd3531/)
   
-  🌱 stack 🌱
+  ### 🌱 stack 🌱
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
   ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -31,10 +33,12 @@ Here are some ideas to get you started:
   ![C♯](https://img.shields.io/badge/C♯-512BD4?style=flat-square&logo=csharp&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-    
+
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
   ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
     
