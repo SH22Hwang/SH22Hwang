@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 ### visit here!
 
 - Blog : [![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://baemsul.tistory.com)
-- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-5a447b7d8e014c2da27577dae8c491de)
+- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318)
 
