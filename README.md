@@ -1,4 +1,4 @@
-### 안녕하세요 👋
+## 안녕하세요 👋
 
 > 반갑습니다. 황승현입니다. 인공지능에 관심 많은 청년입니다.
 <!--
@@ -51,7 +51,18 @@ Here are some ideas to get you started:
 
 </div>
 
-### visit here!
+## 🛠️ Experience
+
+- 🎓 **Education**
+  - 경상대학교 컴퓨터과학과 (2017.03 ~ 2023.02)
+  - 경상국립대학교 대학원 컴퓨터공학과 (2023.03 ~ 2025.02)
+  - SKT FLY AI Challenger 4기 수료 (2023.12 ~ 2024.02) 
+
+- 🔭 **Work**
+  - 올데이컴퓨터코딩학원 초전점 (2022.09 ~ 2023.12)
+  - 한국디지털미디어고등학교 (2025.03 ~ 현재)
+
+## 😄 visit here!
 
 - Blog : [![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://baemsul.tistory.com)
 - Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318)
